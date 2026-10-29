@@ -1,0 +1,38 @@
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Infrastructure.deps.json
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Infrastructure.dll
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Infrastructure.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\Infrastructure.sourcelink.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\Infrastructure.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\bin\Debug\net10.0\Infrastructure.deps.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\bin\Debug\net10.0\Infrastructure.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\bin\Debug\net10.0\Infrastructure.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\bin\Debug\net10.0\Application.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\bin\Debug\net10.0\Domain.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\bin\Debug\net10.0\Application.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Infrastructure\bin\Debug\net10.0\Domain.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\bin\Debug\net10.0\Infrastructure.deps.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\bin\Debug\net10.0\Infrastructure.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\bin\Debug\net10.0\Infrastructure.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\bin\Debug\net10.0\Application.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\bin\Debug\net10.0\Domain.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\bin\Debug\net10.0\Application.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\bin\Debug\net10.0\Domain.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\obj\Debug\net10.0\Infrastructure.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll

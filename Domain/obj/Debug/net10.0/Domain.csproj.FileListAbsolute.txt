@@ -1,0 +1,26 @@
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Domain.deps.json
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Domain.dll
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Domain.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\obj\Debug\net10.0\Domain.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\obj\Debug\net10.0\refint\Domain.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\obj\Debug\net10.0\Domain.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\obj\Debug\net10.0\ref\Domain.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\bin\Debug\net10.0\Domain.deps.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\bin\Debug\net10.0\Domain.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\bin\Debug\net10.0\Domain.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\obj\Debug\net10.0\Domain.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\obj\Debug\net10.0\Domain.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Domain\obj\Debug\net10.0\ref\Domain.dll

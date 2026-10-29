@@ -1,0 +1,99 @@
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\appsettings.Development.json
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\appsettings.json
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Api.staticwebassets.endpoints.json
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Api.exe
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Api.deps.json
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Api.runtimeconfig.json
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Api.dll
+C:\Users\ROEM\AppData\Local\Temp\claude\e--MY-FILES-DOCUMENTS-MY-SUBJECTS-Integrative-Programming-2-Lab-Sheets-Midterm-Project\a02f8381-e4b2-47d5-bc22-b5a0d91568a8\scratchpad\build\Api.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.csproj.AssemblyReference.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.AssemblyInfoInputs.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.AssemblyInfo.cs
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.csproj.CoreCompileInputs.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.sourcelink.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\scopedcss\bundle\Api.styles.css
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\staticwebassets.build.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\staticwebassets.development.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\swae.build.ex.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.csproj.Up2Date
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\refint\Api.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\Api.genruntimeconfig.cache
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\obj\Debug\net10.0\ref\Api.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\appsettings.Development.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\appsettings.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Api.staticwebassets.endpoints.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Api.exe
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Api.deps.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Api.runtimeconfig.json
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Api.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Api.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\FluentValidation.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Scalar.AspNetCore.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Application.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Domain.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Infrastructure.dll
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Infrastructure.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Domain.pdb
+E:\MY FILES\DOCUMENTS\MY-SUBJECTS\Integrative Programming 2\Lab Sheets\Midterm-Project\Midterm-Project-LastName\Api\bin\Debug\net10.0\Application.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\appsettings.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Api.staticwebassets.endpoints.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Api.exe
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Api.deps.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Api.runtimeconfig.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Api.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Api.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\FluentValidation.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Application.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Domain.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Infrastructure.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Infrastructure.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Domain.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\bin\Debug\net10.0\Application.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.csproj.AssemblyReference.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.AssemblyInfoInputs.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.AssemblyInfo.cs
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\scopedcss\bundle\Api.styles.css
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.csproj.Up2Date
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\refint\Api.dll
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.pdb
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\Api.genruntimeconfig.cache
+C:\Users\lenov\Downloads\Midterm-Project-Startup_Evasco\Midterm-Project-Startup\Api\obj\Debug\net10.0\ref\Api.dll
